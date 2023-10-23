@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anasarafa
-- 👀 I’m interested in ...
+- 👀 I’m interested in future inovations
 - 🌱 I’m currently learning embedded systems
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anasarafa0@gmail.com
 
 <!---
