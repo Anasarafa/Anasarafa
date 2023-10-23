@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anasarafa
-- 👀 I’m interested in future inovations
+- 👀 I’m interested in future innovation
 - 🌱 I’m currently learning embedded systems
 - 📫 How to reach me anasarafa0@gmail.com
 
